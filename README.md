@@ -1,2 +1,2 @@
 # ml-data-lab
-A hands-on lab for mastering data handling in machine learning. This repository includes tutorials, code examples, and best practices for data loading, preprocessing, augmentation, transformation, and efficient management in machine learning pipelines using Python, Pandas, NumPy, PyTorch, and TensorFlow.
+A hands-on lab for mastering data handling in machine learning. This repository includes tutorials, code examples, and best practices for data loading, preprocessing, augmentation, transformation, and efficient management in machine learning pipelines using Python, Pandas, NumPy, PyTorch, and TensorFlow. Learn how to work with real-world datasets — from CSVs and JSONs to image, video, and time-series data — and build efficient input pipelines for ML models
